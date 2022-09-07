@@ -1,0 +1,17 @@
+html {
+  box-sizing: border-box;
+}
+
+:root {
+  font-size: 12pt;
+}
+
+*,
+*::after,
+*::before {
+  box-sizing: inherit;
+}
+
+span {
+  font-size: 9pt;
+}
